@@ -175,5 +175,7 @@ class LiveController {
     }
 }
 
-// Exportar para uso global
-window.LiveController = LiveController;
+// Exportar para uso global (apenas se não existir)
+if (typeof window.LiveController === 'undefined') {
+    window.LiveController = LiveController;
+}
