@@ -2,36 +2,36 @@
   "lives": [
     {
       "id": "live-1",
-      "streamerName": "Gaivota",
-      "videoUrl": "https://seu-servidor.com/videos/live1.mp4",
+      "streamerName": "Fernandinha",
+      "videoUrl": https://files.catbox.moe/tfabci.mp4",
       "baseViewers": 83,
       "oscillation": 10
     },
     {
       "id": "live-2",
-      "streamerName": "Maria Silva",
-      "videoUrl": "https://seu-servidor.com/videos/live2.mp4",
+      "streamerName": "Luine Alcantara",
+      "videoUrl": "https://files.catbox.moe/nkwvtc.mp4",
       "baseViewers": 156,
       "oscillation": 15
     },
     {
       "id": "live-3",
-      "streamerName": "João Pedro",
-      "videoUrl": "https://seu-servidor.com/videos/live3.mp4",
+      "streamerName": "Tiara Pimentinha",
+      "videoUrl": "https://files.catbox.moe/re1y7q.mp4",
       "baseViewers": 342,
       "oscillation": 20
     },
     {
       "id": "live-4",
       "streamerName": "Ana Costa",
-      "videoUrl": "https://seu-servidor.com/videos/live4.mp4",
+      "videoUrl": "https://files.catbox.moe/wf2int.mp4",
       "baseViewers": 67,
       "oscillation": 8
     },
     {
       "id": "live-5",
-      "streamerName": "Carlos Mendes",
-      "videoUrl": "https://seu-servidor.com/videos/live5.mp4",
+      "streamerName": "Nicole Bololo",
+      "videoUrl": "https://files.catbox.moe/w4ww3d.mp4",
       "baseViewers": 521,
       "oscillation": 30
     }
